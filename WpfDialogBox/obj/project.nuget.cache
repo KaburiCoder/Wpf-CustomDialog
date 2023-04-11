@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "58VnkmDbYWJKKeeLYFb4oZ5suBXu1iOPqey4w4Po7q8Vl+LyR/ktGaiB1Eqc3Zc0I2bYpIdLHzh6FX6KlCspSg==",
+  "success": true,
+  "projectFilePath": "C:\\YoutubeLecture\\WpfDialogBox\\WpfDialogBox\\WpfDialogBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
